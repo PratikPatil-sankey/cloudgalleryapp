@@ -1,0 +1,13 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.MyCloudGalleryApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Default theme settings -->
+    </style>
+
+    <!-- NoActionBar theme, not used since we're removing all custom styles -->
+    <!-- <style name="Theme.MyCloudGalleryApp.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style> -->
+
+</resources>
